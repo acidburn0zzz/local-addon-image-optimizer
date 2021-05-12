@@ -71,7 +71,7 @@
     "dateformat": "^3.0.3",
     "fs-extra": "^9.0.1",
     "glob-escape": "^0.0.2",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "md5": "^2.3.0",
     "prop-types": "^15.6.2",
     "react": "^16.10.2",
